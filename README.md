@@ -45,16 +45,3 @@ Todo se planteo apartir del video proporcionado el cual explica el funcionamient
 [Video Maquina De Turing](https://youtu.be/iaXLDz_UeYY?si=MqAOkwfVODBneKfI)
 
 
-
-
-El Proyecto se divide en dos partes
-
-La primera en el lenguaje de programacion C y el paradigma imperativo 
-
-La segunda en el lenguaje de Python y el paradigma de objetos
-
-
- ℹ️ **NOTA**: Recuerda actualizar tus dependencias regularmente.
-
-⚠️ **ADVERTENCIA**: No olvides hacer un backup antes de actualizar.
-
