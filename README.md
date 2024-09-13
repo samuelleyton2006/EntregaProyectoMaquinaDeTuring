@@ -1,4 +1,6 @@
 # EntregaProyectoMaquinaDeTuring
 
-
->.[!IMPORTANT]. Tener en cuenta que este documento es unico e inigualable
+Este proyecto fue hecho por Samuel Esteban Leyton Muñoz y Darien Esteban Parra Guzman 
+>
+>
+Explicacion de las entregas 
